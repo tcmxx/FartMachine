@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862a5d6cd1823f4ca248a6e9b07b0a6, type: 3}
+  m_Name: GameConsistantData
+  m_EditorClassIdentifier: 
+  availableLevels:
+  - Level_0_LeaveHome
+  - Level_1_LeaveHomeFric
+  - Level_2_Curve
+  - Level_3_Bounce1
+  - Level_4_Bounce2
+  - Level_5_Death
